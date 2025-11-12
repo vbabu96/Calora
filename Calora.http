@@ -1,0 +1,6 @@
+@Calora_HostAddress = http://localhost:5189
+
+GET {{Calora_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
